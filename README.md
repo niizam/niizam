@@ -1,4 +1,4 @@
-<p align="center"> ### Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
+<p align="center"><h1> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1></p>
 
 <p align="center">
   <a href="https://github.com/niizam"><img src="https://github-readme-stats.vercel.app/api?username=niizam&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
