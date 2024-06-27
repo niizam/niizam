@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:nizam@europe.com"><img src="https://img.shields.io/badge/Email-nizam@europe.com-ea4335?style=for-the-badge&logo=Gmail&logoColor=ea4335&link=mailto:nizam@europe.com" /></a>
+  <a href="mailto:nizam@europe.com"><img src="https://img.shields.io/badge/Email-lesserfield@proton.me-ea4335?style=for-the-badge&logo=Mail&logoColor=8a90c7&link=mailto:lesserfield@proton.me" /></a>
 
 </p>
 
