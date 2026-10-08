@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 150" width="590" height="150">
+<defs>
+  <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="590" y2="0">
+    <stop offset="0" stop-color="#e0315b" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#e0315b"/>
+    <stop offset="1" stop-color="#e0315b" stop-opacity="0"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="-590;590" dur="3.5s" begin="3.0s" repeatCount="indefinite"/>
+  </linearGradient>
+</defs>
+<rect x="1" y="1" width="588" height="148" rx="12" fill="#141116" stroke="#fff" stroke-opacity=".08"/>
+<rect x="1" y="1" width="588" height="148" rx="12" fill="none" stroke="url(#b)" stroke-width="1.5"/>
+<rect x="0" y="22" width="4" height="30" rx="2" fill="#e0315b"/>
+<text x="28" y="46" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#e9e4ea">openvpn-ksplit</text>
+<text x="28" y="80" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#8d8492">Per-app split tunnelling for OpenVPN on Windows 11 using a WFP</text><text x="28" y="102" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#8d8492">kernel driver.</text>
+<circle cx="34" cy="126" r="6" fill="#f34b7d"/>
+<text x="48" y="131" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#8d8492">C++</text>
+<text x="562" y="131" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e0315b"></text>
+</svg>
