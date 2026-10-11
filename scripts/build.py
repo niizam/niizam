@@ -24,11 +24,9 @@ SANS = "'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"
 MONO = "Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace"
 
 PROJECTS = [
-    ("vantage", "Shell", 510, "Lenovo Vantage for Linux."),
-    ("Genymotion_A11_libhoudini", "Android", 427, "ARM, ARMv7 and ARM64 translation for Genymotion on Android 11."),
+    ("serein", "C++", 0, "ARM64 to x86-64 native bridge for Android 11 emulators, built on AOSP Berberis."),
     ("klein", "C++", 0, "Fast CUDA inference for Qwen3.8-27B on a 12 GB GPU, with 262K context and MTP speculative decoding."),
     ("obs-spine-player", "JavaScript", 1, "OBS plugin that plays Spine characters with audio-driven yap mode, emotions and hotkeys."),
-    ("humtosong", "Go", 0, "Unofficial Google song recognition API in Go. Audio in, song out."),
     ("openvpn-ksplit", "C++", 0, "Per-app split tunnelling for OpenVPN on Windows 11 using a WFP kernel driver."),
 ]
 LANG_COLORS = {
@@ -171,7 +169,7 @@ def terminal():
     rows = [
         ("whoami", ["lesserfield. tinkerer, reverser, builder of useless things."]),
         ("cat stack.txt", ["rust · c/c++ · cuda · python · go · javascript · shell"]),
-        ("ls ~/projects --pinned", ["vantage/  Genymotion_A11_libhoudini/  klein/  obs-spine-player/  humtosong/"]),
+        ("ls ~/projects --pinned", ["serein/  klein/  obs-spine-player/  openvpn-ksplit/"]),
         ("uptime", ["shipping code on github since 2018"]),
     ]
     body, y, t = [], 92, 0.6

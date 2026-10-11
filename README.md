@@ -14,11 +14,9 @@
 <h3 align="center">⟡ featured work ⟡</h3>
 
 <p align="center">
-  <a href="https://github.com/niizam/vantage"><img src="assets/cards/vantage.svg" width="49%" alt="vantage" /></a>
-  <a href="https://github.com/niizam/Genymotion_A11_libhoudini"><img src="assets/cards/Genymotion_A11_libhoudini.svg" width="49%" alt="Genymotion_A11_libhoudini" /></a>
+  <a href="https://github.com/niizam/serein"><img src="assets/cards/serein.svg" width="49%" alt="serein" /></a>
   <a href="https://github.com/niizam/klein"><img src="assets/cards/klein.svg" width="49%" alt="klein" /></a>
   <a href="https://github.com/niizam/obs-spine-player"><img src="assets/cards/obs-spine-player.svg" width="49%" alt="obs-spine-player" /></a>
-  <a href="https://github.com/niizam/humtosong"><img src="assets/cards/humtosong.svg" width="49%" alt="humtosong" /></a>
   <a href="https://github.com/niizam/openvpn-ksplit"><img src="assets/cards/openvpn-ksplit.svg" width="49%" alt="openvpn-ksplit" /></a>
 </p>
 
