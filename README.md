@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="mailto:lesserfield@proton.me"><img src="https://img.shields.io/badge/lesserfield@proton.me-141116?style=for-the-badge&logo=protonmail&logoColor=e0315b" alt="Email" /></a>
+  <a href="https://ko-fi.com/lesserfield"><img src="https://img.shields.io/badge/ko--fi-support%20me-141116?style=for-the-badge&logo=kofi&logoColor=ff5e5b" alt="Support on Ko-fi" /></a>
   <img src="https://komarev.com/ghpvc/?username=niizam&style=for-the-badge&color=8b1a3a&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
